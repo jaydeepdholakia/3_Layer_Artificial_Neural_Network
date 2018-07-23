@@ -5,6 +5,10 @@ A ANN (Artificial Neural Network) for predicting the output based on our input d
 ## Overview
 Here I have coded a 3 layer Neural Network in Python (to be specific version 3.6).
 
+**NOTE:** This the most simple way of showing how a Neural Network works. The main focus is to show how the weights are updated (Backpropogation) and how it trains and messures it's loss, which can not be understood while using the libraries like Tensorflow.
+
+After creating or understanding this ANN, check out the [Handwritten Digit Recognition](https://github.com/jaydeepdholakia/Handwritte_Digit_Recognition_Using_Keras).
+
 # Pre-requisites to be installed
 Python 3.6 and Anaconda
 
